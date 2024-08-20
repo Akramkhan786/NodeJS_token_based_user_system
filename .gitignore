@@ -128,3 +128,11 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Dependency directories
+yarn.lock
+
+# Realm Database Files
+RealmInNodeJS.realm
+RealmInNodeJS.realm.lock
+RealmInNodeJS.realm.management/

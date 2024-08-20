@@ -1,0 +1,17 @@
+{
+  "name": "nodejsproject",
+  "version": "1.0.0",
+  "description": "Node.JS project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "nodemon": "^3.1.4",
+    "promise": "^8.3.0",
+    "realm": "^12.13.0"
+  }
+}
